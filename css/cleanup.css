@@ -38,7 +38,7 @@ div#wall #tag-3.slick {
   display: none;
 }
 
-#wall #tag-4 {
+#wall .parent #tag-4 {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
